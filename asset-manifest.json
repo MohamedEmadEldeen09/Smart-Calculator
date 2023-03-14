@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Smart-Calculator/static/css/main.a72ad74f.css",
+    "main.js": "/Smart-Calculator/static/js/main.e3902343.js",
+    "static/js/66.efee7d1a.chunk.js": "/Smart-Calculator/static/js/66.efee7d1a.chunk.js",
+    "index.html": "/Smart-Calculator/index.html",
+    "main.a72ad74f.css.map": "/Smart-Calculator/static/css/main.a72ad74f.css.map",
+    "main.e3902343.js.map": "/Smart-Calculator/static/js/main.e3902343.js.map",
+    "66.efee7d1a.chunk.js.map": "/Smart-Calculator/static/js/66.efee7d1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a72ad74f.css",
+    "static/js/main.e3902343.js"
+  ]
+}
